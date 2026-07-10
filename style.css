@@ -20,7 +20,6 @@ nav ul{
 nav ul li a{
     color: #575757;
     text-decoration: none;
-
 }
 .common-btn{
     background-color: #1d4ed8;
@@ -60,7 +59,7 @@ nav ul li a{
     cursor: pointer;
 }
 .banner-content h2{
-     font-weight: bold;
+    font-weight: bold;
     font-size: 40px;
     margin-bottom: 8px;
 }
@@ -147,13 +146,11 @@ nav ul li a{
     color: #6b7280;
     font-size: 18px;
 }
-
 .pricing-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 30px;
 }
-
 .pricing-card{
     border: 1px solid #e5e7eb;
     border-radius: 16px;
@@ -166,7 +163,6 @@ nav ul li a{
     background: #111827;
     color: white;
 }
-
 .plan{
     color: #2563eb;
     font-size: 14px;
@@ -174,7 +170,6 @@ nav ul li a{
     margin-bottom: 10px;
     text-transform: uppercase;
 }
-
 .featured .plan{
     color: #93c5fd;
 }
@@ -227,12 +222,11 @@ nav ul li a{
     font-weight: 600;
     color: #8b5cf6;
 }
+
 footer{
     background-color: #0f172a;
     color: #9ca3af;
-
     padding: 25px 10%;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -242,12 +236,10 @@ footer{
     display: flex;
     gap: 30px;
 }
-
 .footer-links a{
     color: #9ca3af;
     text-decoration: none;
 }
-
 .footer-links a:hover{
     color: white;
 }
