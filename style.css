@@ -234,16 +234,21 @@ footer{
 .footer-links{
     display: flex;
     gap: 30px;
+    align-items: center;
 }
 .footer-links a{
     color: #9ca3af;
     text-decoration: none;
+    align-items: center;
 }
 .footer-links a:hover{
     color: white;
+    align-items: center;
 }
 .footer-logo{
     display: flex;
     justify-content: center;
     gap: 5px;
+    align-items: center;
 }
+
